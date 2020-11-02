@@ -1,0 +1,3 @@
+图标 上传到 ：static/img/icon文件夹下
+策划 上传到：/策划方案 文件夹下
+前端静态文件夹 上传到 templates/static文件夹下
